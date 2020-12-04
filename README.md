@@ -3,6 +3,10 @@ VideoDownloader für hochgeladene Videos auf frei3
 
 Das hier ist ein von der Medienplattform frei3 unabhängiges Programm um Videos dort herunterladen zu können, also auf eigene Gefahr ;)
 
+### Programm bauen
+
+Das Programm wurde in Free Pascal mit der IDE Lazarus geschrieben und ist unter allen Betriebssystemen kompillierbar, die auch von Lazarus unterstützt werden. Eventuell müssen lediglich die ffmpeg-Aufrufe angepasst werden. Nach der Installation der Lazarus IDE, welche hier: https://www.lazarus-ide.org/index.php gefunden werden kann, muss mit der IDE einfach nur die Datei frei3VideoDownloader.lpi geöffnet werden und unter dem Menüpunkt Start->Kompillieren die ausführbare Datei erzeugt werden.
+
 ### Installation
 
 Das heruntergeladene Paket muss vollständig entpackt werden. Unter Windows muss sich FFMPEG im selben Ordner befinden wie die ausführbare Datei des frei3 Video-Downloaders. Unter Linux muss ffmpeg und das gnome-terminal über die Paketverwaltung installiert werden. 
