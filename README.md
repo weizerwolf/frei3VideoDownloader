@@ -1,4 +1,4 @@
-# frei3VideoDownloader
+# Frei3 Video Downloader (inoffiziell)
 VideoDownloader für hochgeladene Videos auf frei3
 
 Das hier ist ein von der Medienplattform frei3 unabhängiges Programm um Videos dort herunterladen zu können, also auf eigene Gefahr ;)
