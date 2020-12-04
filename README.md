@@ -5,7 +5,7 @@ Das hier ist ein von der Medienplattform frei3 unabhängiges Programm um Videos 
 
 ### Installation
 
-kommt noch
+Das heruntergeladene Paket muss vollständig entpackt werden. Unter Windows muss sich FFMPEG im selben Ordner befinden wie die ausführbare Datei des frei3 Video-Downloaders. Unter Linux muss ffmpeg und das gnome-terminal über die Paketverwaltung installiert werden. 
 
 ### Anleitung
 
@@ -14,4 +14,4 @@ kommt noch
 3. Mit "Abspielen" wird das Video ohne zu Speichern abgespielt werden.
 4. Mit "Speichern" kann die Auswahl als MP4-Datei gespeichert werden.
 
-Viel Spaß bei der Nutzung! Vorschläge gerne an meine Email im Programm unter "Info".
+**Viel Spaß bei der Nutzung! Vorschläge gerne an meine Email im Programm unter "Info".**
