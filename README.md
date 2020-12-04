@@ -8,4 +8,4 @@ Das hier ist ein von der Medienplattform frei3 unabhängiges Programm um Videos 
 3. Mit "Abspielen" wird das Video ohne zu Speichern abgespielt werden.
 4. Mit "Speichern" kann die Auswahl als MP4-Datei gespeichert werden.
 
-Viel Spaß bei der Nutzung! Vorschläge gerne an die Email unter "Info".
+Viel Spaß bei der Nutzung! Vorschläge gerne an meine Email im Programm unter "Info".
