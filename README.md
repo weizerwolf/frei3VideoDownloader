@@ -5,7 +5,7 @@ Das hier ist ein von der Medienplattform frei3 unabhängiges Programm um Videos 
 
 ### Programm bauen
 
-Das Programm wurde in Free Pascal mit der IDE Lazarus geschrieben und ist unter allen Betriebssystemen kompillierbar, die auch von Lazarus unterstützt werden. Eventuell müssen lediglich die ffmpeg-Aufrufe angepasst werden. Nach der Installation der Lazarus IDE, welche hier: https://www.lazarus-ide.org/index.php gefunden werden kann, muss mit der IDE einfach nur die Datei frei3VideoDownloader.lpi geöffnet werden und unter dem Menüpunkt Start->Kompillieren die ausführbare Datei erzeugt werden.
+Das Programm wurde in Free Pascal mit der IDE Lazarus geschrieben und ist unter allen Betriebssystemen kompillierbar, die auch von Lazarus unterstützt werden. Eventuell müssen lediglich die ffmpeg-Aufrufe angepasst werden. Nach der Installation der Lazarus IDE, welche hier: https://www.lazarus-ide.org/index.php zu finden ist, muss mit der IDE einfach nur die Datei frei3VideoDownloader.lpi geöffnet und unter dem Menüpunkt Start->Kompillieren die ausführbare Datei erzeugt werden.
 
 ### Installation
 
