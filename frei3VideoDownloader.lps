@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="frei3VideoDownloader.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="27"/>
+        <CursorPos X="84" Y="47"/>
+        <UsageCount Value="44"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Frei3VideoDownloaderForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="frei3VideoDownloader_main"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="181"/>
+        <CursorPos X="26" Y="201"/>
+        <UsageCount Value="44"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="frei3utils.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Frei3Utils"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="16"/>
+        <UsageCount Value="41"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="frei3dashdownloader.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Frei3DashDownloader"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="64"/>
+        <CursorPos X="5" Y="59"/>
+        <UsageCount Value="41"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="images/frei3utils.pas"/>
+        <UnitName Value="Frei3Utils"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="16"/>
+        <UsageCount Value="21"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="images/frei3dashdownloader.pas"/>
+        <UnitName Value="Frei3DashDownloader"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="156"/>
+        <UsageCount Value="21"/>
+      </Unit5>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="22" Column="50" TopLine="3"/>
+      </Position1>
+      <Position2>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="24" Column="50" TopLine="3"/>
+      </Position2>
+      <Position3>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="22" Column="48" TopLine="4"/>
+      </Position3>
+      <Position4>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="90" Column="32" TopLine="60"/>
+      </Position4>
+      <Position5>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="92" Column="32" TopLine="62"/>
+      </Position5>
+      <Position6>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="100" Column="14" TopLine="70"/>
+      </Position6>
+      <Position7>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="88" Column="76" TopLine="81"/>
+      </Position7>
+      <Position8>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="73" Column="39" TopLine="62"/>
+      </Position8>
+      <Position9>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="67" Column="30" TopLine="61"/>
+      </Position9>
+      <Position10>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="69" Column="31" TopLine="61"/>
+      </Position10>
+      <Position11>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="71" Column="26" TopLine="61"/>
+      </Position11>
+      <Position12>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="67" Column="30" TopLine="61"/>
+      </Position12>
+      <Position13>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="69" Column="31" TopLine="61"/>
+      </Position13>
+      <Position14>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="71" Column="26" TopLine="61"/>
+      </Position14>
+      <Position15>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="67" Column="30" TopLine="61"/>
+      </Position15>
+      <Position16>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="69" Column="38" TopLine="61"/>
+      </Position16>
+      <Position17>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="71" Column="38" TopLine="63"/>
+      </Position17>
+      <Position18>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="123" Column="33" TopLine="98"/>
+      </Position18>
+      <Position19>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="125" Column="33" TopLine="100"/>
+      </Position19>
+      <Position20>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="114"/>
+      </Position20>
+      <Position21>
+        <Filename Value="frei3dashdownloader.pas"/>
+        <Caret Line="47" Column="25" TopLine="37"/>
+      </Position21>
+      <Position22>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="114"/>
+      </Position22>
+      <Position23>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="155" Column="3" TopLine="153"/>
+      </Position23>
+      <Position24>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="136" Column="3" TopLine="134"/>
+      </Position24>
+      <Position25>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="155" Column="3" TopLine="153"/>
+      </Position25>
+      <Position26>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="136" Column="3" TopLine="134"/>
+      </Position26>
+      <Position27>
+        <Filename Value="frei3videodownloader_main.pas"/>
+        <Caret Line="155" Column="3" TopLine="153"/>
+      </Position27>
+      <Position28>
+        <Filename Value="frei3utils.pas"/>
+        <Caret Line="12" Column="48"/>
+      </Position28>
+      <Position29>
+        <Filename Value="frei3utils.pas"/>
+        <Caret Line="9" Column="29"/>
+      </Position29>
+      <Position30>
+        <Filename Value="frei3VideoDownloader.lpr"/>
+        <Caret Line="40" Column="56" TopLine="23"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
